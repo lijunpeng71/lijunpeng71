@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "0a98e9bea66b0acd",
+    "id": "c5f00fae3f894a0a",
     "type": "split",
     "children": [
       {
-        "id": "9ce1e3f236bc031d",
+        "id": "63ec8e05629a310e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Diary/2021-11-15.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2021-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Diary/2021-11-15.md"
-              }
+              "state": {}
             }
           },
           {
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2021-11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,23 +146,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9ce1e3f236bc031d",
+  "active": "63ec8e05629a310e",
   "lastOpenFiles": [
+    "template/diary.md",
+    "zk/学习方法总结.md",
+    "2021-11-14.md",
     "Diary/2021-11-15.md",
+    "Diary/2021-11-14.md",
     "个人成长/学习方法.md",
+    "zk/202111142328.md",
     "读书笔记/多线程学习笔记.md",
     "Untitled Diagram.svg",
-    "template/diary.md",
-    "Diary/2021-11-14.md",
-    "Diary/2021-11-03.md",
-    "images/青苹果.jpeg",
-    "README.md",
-    "Diary/2021-11-11.md"
+    "Diary/2021-11-03.md"
   ]
 }
