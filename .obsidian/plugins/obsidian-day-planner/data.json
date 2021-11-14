@@ -1,0 +1,31 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": true,
+  "notesToDates": [
+    {
+      "date": "Tue Nov 02 2021"
+    },
+    {
+      "notePath": "Daily/2021-11-03_星期三.md",
+      "date": "Wed Nov 03 2021"
+    },
+    {
+      "notePath": "Daily/2021-11-04_星期四.md",
+      "date": "Thu Nov 04 2021"
+    },
+    {
+      "notePath": "Diary/2021-11-10.md",
+      "date": "Wed Nov 10 2021"
+    },
+    {
+      "notePath": "Diary/2021-11-15.md",
+      "date": "Sun Nov 14 2021"
+    }
+  ],
+  "completePastItems": false,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 4
+}

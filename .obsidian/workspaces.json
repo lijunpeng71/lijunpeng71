@@ -1,0 +1,168 @@
+{
+  "workspaces": {
+    "读书笔记": {
+      "main": {
+        "id": "0a98e9bea66b0acd",
+        "type": "split",
+        "children": [
+          {
+            "id": "04fb71dd8832b8b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记/多线程学习笔记.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8f17c6f586d5b474",
+        "type": "split",
+        "children": [
+          {
+            "id": "f3657abb08e247f1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "72bf238185e53009",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "dd39889be9ce6032",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#todos",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "c5ce1a3c1589f286",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 254
+      },
+      "right": {
+        "id": "ca040446bf046d61",
+        "type": "split",
+        "children": [
+          {
+            "id": "c70f65f4b5b4bca0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a9b2eeada7dfcec3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "读书笔记/多线程学习笔记.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "4a96255e6008a32b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "读书笔记/多线程学习笔记.md"
+                  }
+                }
+              },
+              {
+                "id": "340dcc1ea98e1e39",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "读书笔记/多线程学习笔记.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "0f6cb7718533dadd",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "2447baa6f840f412",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5c9dfedd0d413ba9",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5bdcd167774a402b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a9bf9c8b602cba73",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "04fb71dd8832b8b8"
+    }
+  },
+  "active": "读书笔记"
+}

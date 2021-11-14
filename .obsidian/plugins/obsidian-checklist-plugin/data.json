@@ -1,0 +1,12 @@
+{
+  "todoPageName": "todos",
+  "showChecked": false,
+  "groupBy": "page",
+  "sortDirection": "old->new",
+  "ignoreFiles": "",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "template/diary.md"
+  ]
+}
