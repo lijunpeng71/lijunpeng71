@@ -7,8 +7,11 @@
         "id": "63ec8e05629a310e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "zk/学习方法总结.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zk/学习方法总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zk/学习方法总结.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zk/学习方法总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,8 +161,8 @@
   },
   "active": "63ec8e05629a310e",
   "lastOpenFiles": [
-    "template/diary.md",
     "zk/学习方法总结.md",
+    "template/diary.md",
     "2021-11-14.md",
     "Diary/2021-11-15.md",
     "Diary/2021-11-14.md",
