@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书笔记/软技能-代码之外的生存之道.md",
-            "mode": "source"
+            "file": "个人成长/学习方法.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/软技能-代码之外的生存之道.md",
+                "file": "个人成长/学习方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/软技能-代码之外的生存之道.md"
+                "file": "个人成长/学习方法.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/软技能-代码之外的生存之道.md",
+                "file": "个人成长/学习方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,15 +161,15 @@
   },
   "active": "63ec8e05629a310e",
   "lastOpenFiles": [
-    "读书笔记/软技能-代码之外的生存之道.md",
-    "读书笔记/多线程学习笔记.md",
     "个人成长/学习方法.md",
+    "读书笔记/软技能-代码之外的生存之道.md",
     "zk/学习方法总结.md",
+    "images/青苹果.jpeg",
+    "读书笔记/多线程学习笔记.md",
     "template/diary.md",
     "2021-11-14.md",
     "Diary/2021-11-15.md",
     "Diary/2021-11-14.md",
-    "zk/202111142328.md",
-    "Untitled Diagram.svg"
+    "zk/202111142328.md"
   ]
 }
