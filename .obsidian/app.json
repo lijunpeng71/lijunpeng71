@@ -1,5 +1,7 @@
 {
   "defaultViewMode": "preview",
   "promptDelete": false,
-  "communityPluginSortOrder": "release"
+  "communityPluginSortOrder": "release",
+  "legacyEditor": false,
+  "livePreview": true
 }
