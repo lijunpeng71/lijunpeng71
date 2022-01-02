@@ -7,4 +7,3 @@
 5、多线程调用，(这个不太确认)
 6、数据库表不支持事务(例如myisam)
 7、未开启事务
-![](https://obsidian-bucket.oss-cn-beijing.aliyuncs.com/%E9%9D%92%E8%8B%B9%E6%9E%9C.jpeg)
