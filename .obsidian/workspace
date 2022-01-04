@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "读书笔记/Spring事物使用注意事项.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
