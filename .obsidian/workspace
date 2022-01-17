@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书笔记/英语语法合集/第二节 定语、状语、同位语.md",
-            "mode": "source"
+            "file": "读书笔记/好书临时记录.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/英语语法合集/第二节 定语、状语、同位语.md",
+                "file": "读书笔记/好书临时记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/英语语法合集/第二节 定语、状语、同位语.md"
+                "file": "读书笔记/好书临时记录.md"
               }
             }
           },
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/英语语法合集/第二节 定语、状语、同位语.md",
+                "file": "读书笔记/好书临时记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -160,6 +162,8 @@
   },
   "active": "63ec8e05629a310e",
   "lastOpenFiles": [
+    "读书笔记/好书临时记录.md",
+    "个人成长/学习方法.md",
     "读书笔记/英语语法合集/第二节 定语、状语、同位语.md",
     "读书笔记/英语语法合集/第一节 五大基础句型.md",
     "读书笔记/读书笔记-C++学习图书推荐.md",
@@ -167,8 +171,6 @@
     "读书笔记/软技能-代码之外的生存之道.md",
     "读书笔记/多线程学习笔记.md",
     "读书笔记/读书笔记-如何成为学习高手.md",
-    "README.md",
-    "个人成长/学习方法.md",
-    "zk/学习方法总结.md"
+    "README.md"
   ]
 }
