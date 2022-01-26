@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "63ec8e05629a310e",
+        "id": "bbe277d79a0273d3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书笔记/好书临时记录.md",
-            "mode": "source"
+            "file": "读书笔记/恋练有词读书笔记.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/好书临时记录.md",
+                "file": "读书笔记/恋练有词读书笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/好书临时记录.md"
+                "file": "读书笔记/恋练有词读书笔记.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/好书临时记录.md",
+                "file": "读书笔记/恋练有词读书笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,23 +153,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "63ec8e05629a310e",
+  "active": "bbe277d79a0273d3",
   "lastOpenFiles": [
+    "读书笔记/恋练有词读书笔记.md",
+    "读书笔记/多线程学习笔记.md",
+    "读书笔记/读书笔记-C++学习图书推荐.md",
+    "读书笔记/读书笔记-如何成为学习高手.md",
     "读书笔记/好书临时记录.md",
+    "读书笔记/软技能-代码之外的生存之道.md",
+    "读书笔记/Spring事物使用注意事项.md",
     "个人成长/学习方法.md",
     "读书笔记/英语语法合集/第二节 定语、状语、同位语.md",
-    "读书笔记/英语语法合集/第一节 五大基础句型.md",
-    "读书笔记/读书笔记-C++学习图书推荐.md",
-    "读书笔记/Spring事物使用注意事项.md",
-    "读书笔记/软技能-代码之外的生存之道.md",
-    "读书笔记/多线程学习笔记.md",
-    "读书笔记/读书笔记-如何成为学习高手.md",
-    "README.md"
+    "读书笔记/英语语法合集/第一节 五大基础句型.md"
   ]
 }
