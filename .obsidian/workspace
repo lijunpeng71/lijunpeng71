@@ -10,8 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "读书笔记/好书临时记录.md",
-            "mode": "source",
-            "source": false
+            "mode": "source"
           }
         }
       }
@@ -122,7 +121,7 @@
             }
           },
           {
-            "id": "2447baa6f840f412",
+            "id": "9171d35ae9107d9c",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -130,7 +129,7 @@
             }
           },
           {
-            "id": "5c9dfedd0d413ba9",
+            "id": "c0701bf485422114",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -138,7 +137,7 @@
             }
           },
           {
-            "id": "5bdcd167774a402b",
+            "id": "d837ff3abd3220a1",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -146,7 +145,7 @@
             }
           },
           {
-            "id": "a9bf9c8b602cba73",
+            "id": "beb20da10bcf3049",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -154,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
